@@ -24,36 +24,20 @@ see some performance issues with Bridge.
 
 ## API
 
-### setAuthUser
-
-### showPending
-
-### showSetup
-
-### showVersion
-
-### showBridge
-
-### getConfig
-
-### setConfig
-
-### getPatient
-
-### setPatient
-
-### setToolbarMode
-
-### setOrgId
-
-### setUserSession
-
-### skipAuthCheck
-
-### logout
-
-### setAccountUrl
-
-### setApiUrl
-
-### setProxyUrl
+* setAuthUser
+* showPending
+* showSetup
+* showVersion
+* showBridge
+* getConfig
+* setConfig
+* getPatient
+* setPatient
+* setToolbarMode
+* setOrgId
+* setUserSession
+* skipAuthCheck
+* logout
+* setAccountUrl
+* setApiUrl
+* setProxyUrl
