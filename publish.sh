@@ -9,8 +9,8 @@ echo "Publishing $VERSION"
 # add files and commit with the version
 git add .
 # commit with the version
-git commit -m "v$VERSION"
+git commit -m "$VERSION"
 # git tag the version
-git tag -a "$VERSION" -m "v$VERSION"
+git tag -a "$VERSION" -m "$VERSION"
 # push the tag
 git push origin "$VERSION"
